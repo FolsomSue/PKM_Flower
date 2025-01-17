@@ -1,0 +1,19 @@
+{
+  "title": "My Flowershow",
+  "description": "Welcome to my personal corner of the web, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!",
+  "showSidebar": false,
+  "navLinks": [
+    {
+      "href": "/blog",
+      "name": "Blog"
+    }, 
+    {
+      "href": "#",
+      "name": "About"
+    }, 
+    {
+      "href": "#",
+      "name": "Follow me on twitter!"
+    }
+  ]
+}
