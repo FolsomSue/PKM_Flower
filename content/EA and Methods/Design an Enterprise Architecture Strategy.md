@@ -1,0 +1,203 @@
+#Info-Tech #EA #research 
+- 148 slides in total
+# Document Summary
+## Executive Brief
+## Phase 1
+- Explore a general EA strategy approach
+- Introduce Agile EA architecture
+## Phase 2
+- Define the business and technology drivers
+- Define your value proposition
+## Phase 3
+- Realize the importance of EA fundamentals
+- Finalize the EA fundamentals
+## Phase 4
+- Select relevant EA services
+- Finalize the set of services and secure approval
+# Executive Brief
+- Slides 3-16
+- 4: build a right-size enterprise architecture strategy
+- 5: Enterprise Architecture - Thought Model
+- 6: Enterprise Architecture Capabilities
+	- This really speaks to the activities, outputs of an EA practice -- not just to Capability modelling
+	- Emphasises agile iterations
+- 7: statement re EA needs to be right sized for the needs of the organization
+- 8: statement re EA provides business options based on a deep understanding of the organization
+- 9: Design an EA strategy that 
+	- helps org make decisions that are hard to change in a complex environment
+	- fits the current org's maturity and remains flexible and adaptable to unforeseen future changes
+- 10: Exec summary listing
+	- Your Challenge
+	- Common Obstacles
+	- Info-Tech's approach
+- 11: Info-Tech insight summary on archit. agility
+	- Tactical insights for Business Engagement, EA Fundamentals, Enterprise Services
+- 13: chart of typical EA maturity stages
+	- Business Silos
+	- Standardized Technology
+	- Optimized Core
+	- Business Componentization
+	- Digital Ecosystem
+- 14: Enterprise Architecture maturity (from, to)
+	- Unstable - struggles to support
+	- Firefighter - supports the business
+	- Trusted Operator - optimizes the business
+	- Business Partner - Expands the business
+	- Innovator - Transforms the business
+- 15: Info-Tech support offerings
+	- DIY Toolkit
+	- Guided Implementation
+	- Workshop
+	- Consulting
+- 16: Provides a breakdown of a Workshop (sessions, activities, outcomes)
+- 17: Provides a breakdown of a Guided Implementation (Phases + Calls)
+# Phase 1: Explore the Role of Enterprise Architecture
+- Slides 18-
+## Phase 1
+- Explore a general EA strategy approach
+- Introduce Agile Enterprise Architecture
+- 19: Enterprise architecture optimizes the outcomes of the entire organization
+	- Corporate Strategy -> Enterprise Architecture Strategy 
+- 20: Existing EA functions vary in the value they achieve dur to their level of maturity
+	- Operationalized: Common EA value (Decreased Cost, Reduced Risk, Cut through Complexity, Increased agility)
+	- Emerging (limited Ad Hoc EA function, not aligning business and IT): can't build the value of Operationalized
+- 21-22: Benefits of Enterprise Architecture 
+	- Focus on business outcomes
+	- Traceability of architectural decisions to / from business goals
+	- Provides ways to measure results
+	- Provides consistency across different LOBs, common vocab
+	- Reduces duplications
+	- Presents actionable migration the strategy / vision via short term milestones / steps
+		- aka "Transition packages"
+	- Increases agility
+	- Reduces costs
+	- Mitigates risks
+	- Stimulates innovation
+	- Helps achieve stated business goals
+	- Enhances competitive advantage of the enterprise
+- 23: Qualities of a well established and practical Enterprise Architecture 
+	- Objective
+	- Impartial
+	- Credible
+	- Practical
+	- Measurable
+- 24: Roles of the Enterprise Architecture 
+	- Guardrails for the enterprise, so Agile teams work independently in a safe, ready to integration environment
+	- Establish strategy 
+	- Establish priorities
+	- Continuously innovate
+	- Establish enterprise standards and enterprise guardrails to guide solution / domain / portfolio architectures
+	- Align with and be informed by the org's direction
+	- (Also includes a breakdown of Members of the Architectural Board) #ARB 
+		- Chief (Business) Strategist
+		- Lead Enterprise Architect
+		- Business SME from each major domain
+		- IT SME from each major domain
+		- Operational and Infrastructure SME
+		- Security & Risk Officer
+		- Process Management
+		- Other relevant stakeholders
+- 25: For Enterprise Architecture to contribute, EA must address the org's vision and goals
+- 26: How does Enterprise Architecture provide value
+	- Business and Technology Drivers
+	- Vision, Aspirations, Long-Term Goals
+	- EA Contributions - contributions that alleviate obstructions
+	- Promise of Value
+- 27: EA function scope is influenced by EA value proposition and previously developed EA fundamentals
+	- EA value prop + EA vision / mission / goals & objectives ->influences-> Org coverage + arch domains + depth + time horizon ->defining-> EA function scope
+- 28: EA Team Characteristics (i.e. the EA Strategy Creation Team, not just an individual)
+	- Been in the org for a long time and has strong relations with stakeholders -> can become the EA strategy sponsor
+	- Someone who understands the diff tech components in the org that support its business operations
+	- Someone in the org who can communicate IT concepts to business managers in a language the business understands
+	- An individual with a strategy background or perspective on the org. Will understand where the org is headed
+	- Any individuals who feel acute pain as a result of poorly made investment decisions -> can be champions of EA strategy in their respective functions
+- 29: EA Skills and Competencies (for the team)
+	- Arch thinking
+	- Analytical
+	- Trusted, credible
+	- Can handle complexity
+	- Can change perspectives
+	- Fast learners (both business and technology)
+	- Independent and steadfast
+	- Not afraid to go against the stream
+	- Able to understand problems of others with empathy
+	- Able to estimate scaling on design decisions such as model patterns
+	- Intrinsic capability to identify where relevant details are
+	- Able to identify root causes quickly
+	- Able to communicate complex issues clearly
+	- Able to negotiate and come up with acceptable solutions
+	- Can model well
+	- Able to change perspectives (from business to implementation and operational perspectives)
+- 30: Use of Enterprise Architecture methodologies
+	- Balance EA methodologies with Agile approaches
+- 31: Use of Enterprise Architecture methodologies vs Agile methods
+	- Use an existing methodology to structure thinking and establish a common vocabulary to communicate basic concepts, processes and approaches
+	- Customize the methodology to your needs, making it as lean as possible
+	- Execute in an Agile way but keep in mind the thoughtful checks recommended by your end-to-end methodology
+	- Clarify goals
+	- Have good measures and metrics in place
+	- Continuously monitor progress, fit for purpose, etc.
+	- Highlight risks, roadblocks, etc.
+	- Get support
+	- Communicate vision, goals, key decisions, etc.
+	- Iterate
+- 32: Business strategy first, EA strategy second, EA operating model third
+- 33: High-level perspective: creating an effective practice involves many moving parts
+	- Environment
+	- Business Strategy - how the org adds value and acts as rudder to direct the org
+	- Organizational Strategy - defines character of the org, what it wants to be, vision, mission, etc.
+	- Core Process - the flow of work through the organization
+	- Structure - how people are organized around business processes, including reporting structures, boundaries, roles, and responsibilities
+	- Systems - interrelated sets of tasks or activities that organize and coordinate work
+	- Culture - personality of the organization, leadership style, attitudes, styles, management practices -> it measures how well philosophy is translated into practice
+	- Results - measurement of how well the org achieved its goals
+	- Leadership - brings the org together by providing vision and strategy; designing, monitoring, and nurturing the culture, and fostering agility
+- 34: The answer to the strategic planning entity dilemma is Enterprise Architecture 
+	- Enterprise Architecture is a discipline that defines the structure and operation of an organization
+	- The intent of Enterprise Architecture is to determine how an org can most effectively achieve its current and future objectives
+- 35: Enterprise Architecture spans across all the domains of architecture
+	- Business Architecture is the cornerstone that sets the foundation for all other architectural domains
+		- Security, Data, Application, Technology
+- 36: Enterprise Architecture deployment continuum
+	- If EA practice operates on its own (Centralized), can lead to Ivory Tower and / or Dictatorship
+	- If EA practice is embedded with the BUs (Federated) then leads to Balanced and / or Democracy
+	- If EA practice is embedded separately within individual BUs (Decentralized) then leads to Siloed and / or abdicates Enterprise role
+- 37: Enterprise vs. Program / Portfolio / Domain
+	- Decisions at the enterprise level apply across multiple programs / portfolios / solutions and represent the guardrails set for all to play with
+	- Enterprise scope: business architecture, technology arch, data arch, applications arch
+	- Program / Portfolio scope: bus requirements, business processes, solution architecture
+- 38: Decide on the degree of centralization
+	- Typically see a need for a centralized repository of reusable assets and standards across the organization, while other approaches / standards can apply locally
+	- Centralization
+		- Allows for more strategic planning
+		- Visibility into standards and assets across the org promotes rationalization and cost savings
+		- Ensures enterprise-wide assets are used
+		- More strategic sourcing of vendors and resellers
+		- Can centrally negotiate pricing for better deals
+		- Easier to manage risk and prepare for audits
+		- Greater coordination of resources
+		- Derives benefits from enterprise decisions e.g. integration
+	- Decentralization
+		- May allow for more innovation
+		- May be easier to demonstrate local compliance if the org is geographically decentralized
+		- May be easier to procure software if offices are in different countries
+		- Deployment and installation of software on user devices may be easier
+- 39: EA Strategy 
+	- What is the role of Enterprise Architecture vis-a-vis business goals?
+		- What needs to be done?
+		- Who needs to be involved?
+		- When?
+		- Where?
+		- Why?
+		- How?
+- 40: Top-down approach starting from the goals of the org
+	- What the Business sees - Bus Goals -> Value Streams -> Capabilities
+	- What the CxO sees - Capabilities -> Processes -> actually this is kind of unclear
+	- What the App Managers sees - Processes -> Applications
+	- What the Program Managers sees - Programs / Projects
+	- Need traceability all the way from goals to projects
+- 41: Measure EA strategy effectiveness by tracking the benefits it provides to the corporate business goals
+	- The success of the EA function spans across three main dimensions
+		- The delivery of EA-enabled business outcomes that are most important to the enterprise
+		- The alignment between the business and the tech from a planning perspective
+		- Improvements in the corporate business goals due to EA contributions (standardization, rationalization, reuse, etc.)
