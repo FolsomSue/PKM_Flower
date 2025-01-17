@@ -1,0 +1,20 @@
+#OT #ITOT #ITOT_Convergence #Industry_Definitions  #Purdue
+The well-known [[Purdue Model of Computer Integrated Manufacturing]] has become an iconic standard in the automation world for its industrial control systems architecture guidance. The Purdue Model has helped provide industrial communication security through its separation of layers and definition of how machines and processes should function and interact.
+
+It quickly became so well accepted that it influenced the ISA-95 standard that defines the interface between enterprise and control systems. And its prescribed data flows have also helped keep industrial networks deterministic by ensuring that control networks are not overwhelmed with non-production data.
+
+![Vatsal Shah, CEO of Litmus](https://img.automationworld.com/files/base/pmmi/all/image/2020/05/Vatsal_Headshot_2020__1_.5ebaae7d1a14e.png?auto=format%2Ccompress&fit=max&q=70&w=400)Vatsal Shah, CEO of Litmus
+Despite the Model’s influence, in the IoT era, the flow of data flow is no longer strictly hierarchical as prescribed in the Purdue Model. As intelligence is added to sensors and actuators (Level 0 of the Purdue Model) and controllers (Level 1 of the Purdue Model), new potentials for control system exposure are occurring much further down the pyramid than the Purdue Model ever considered, says Vatsal Shah, CEO of Litmus, a supplier of edge computing technology.
+
+And with the use of edge computing devices becoming more common, “vast amounts of data can be collected at Level 1, processed, and sent directly to the cloud,” Shah says, thereby bypassing the hierarchical structure of data flows in the Purdue Model. 
+
+In modern, digitally connected control architectures, “there is no inherent need to funnel data up through different layers \[of the Purdue Model\],” says Shah. “Sensor data is being collected at Level 0 and sent to the cloud for predictive maintenance. And sending Level 0 data to Level 5 directly violates the segmentation aspects of the Purdue Model. Today, data can be derived from many sources and service many clients, opening up ever widening pathways for consumption.”
+
+But scrapping the Purdue Model isn’t something Shah advises. “The Purdue Model still serves the segmentation requirements for both wireless and wired networks and protects the operational technology (OT) network from unwarranted traffic and exploits. These are key areas that need to be preserved to ensure the continuous flow of production and the safety of the workers operating the shop floor equipment.”
+
+Instead, Shah advocates for a “hybrid solution that integrates into the Purdue Model to maintain segmentation for traditional instances of IT and OT data flow, but also provides the flexibility needed as Industrial IoT use cases become more prevalent and data becomes less hierarchical and more horizontal. 
+
+![The Purdue Model with an Industrial Edge Computing Platform](https://img.automationworld.com/files/base/pmmi/all/image/2020/05/Edge_PurdueFig2.5ebaae7c4f233.png?auto=format%2Ccompress&fit=max&q=70&w=400)The Purdue Model with an [[Industrial Edge]] Computing Platform
+Shah says this hybrid approach can be achieved by adding an industrial edge computing platform software layer to the Purdue Model. “With this layer, you can make your industrial IoT project adhere to each level in the Purdue Model. This platform layer can sit either at Level 2 or Level 3 and provide data collection capability from OT devices at Level 0, 1, 2, and 3, while also facilitating data collection from IT layers at Levels 4 and 5. The benefit is that the traditional hierarchies inherent in the Purdue Model can be bypassed where needed (such as sensors sending data from Level 0 to Level 5) by piping the data through the platform to ensure control and security.”
+
+Around the outside of the new hybrid model diagram, the traditional Purdue Model data flows will continue to ensure throughput on the shop floor network is not comprised and maintain safe operation of shop floor equipment.
